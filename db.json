@@ -1,0 +1,79 @@
+{
+  "profesores": [
+    {
+      "nombre": "Ruben",
+      "apellido": "Garay",
+      "materias": [
+        {
+          "nombre": "NodeJS desde Cero"
+        },
+        {
+          "nombre": "ReactJS desde Cero"
+        },
+        {
+          "nombre": "JavaScript desde Cero"
+        }
+      ],
+      "id": "30f8"
+    },
+    {
+      "id": "336b",
+      "nombre": "Andrea",
+      "apellido": "Solis",
+      "materias": [
+        {
+          "nombre": "Cocina desde Cero"
+        },
+        {
+          "nombre": "Tejido desde Cero"
+        }
+      ]
+    }
+  ],
+  "alumnos": [
+    {
+      "nombre": "Panchi",
+      "apellido": "Solis",
+      "promedio": 9.2,
+      "id": "6ba2"
+    },
+    {
+      "nombre": "Ninna",
+      "apellido": "Solis",
+      "promedio": 7,
+      "id": "4243"
+    },
+    {
+      "nombre": "Makena",
+      "apellido": "Solis",
+      "promedio": 8,
+      "id": "7445"
+    },
+    {
+      "id": "db73",
+      "nombre": "Cirila",
+      "apellido": "Solis",
+      "promedio": 7
+    }
+  ],
+  "cursos": [
+    {
+      "nommbre": "NodeJS desde Cero",
+      "duracion": 7,
+      "dificultad": "intermedia",
+      "id": "7de7"
+    },
+    {
+      "nommbre": "ReactJS desde Cero",
+      "duracion": 8,
+      "dificultad": "intermedia",
+      "id": "fdbf"
+    },
+    {
+      "nommbre": "AngularJS desde Cero",
+      "duracion": 6,
+      "dificultad": "alta",
+      "id": "fe74"
+    }
+  ]
+}
